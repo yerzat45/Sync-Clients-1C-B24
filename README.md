@@ -24,10 +24,10 @@
 
 ```php
 $config = [
-    'api_url' => 'https://azm1c.itsg.kz/Bitrix_test/ru_RU/hs/exch/getCatalog?Catalog=Контрагенты&Field1=ИНН',
-    'username' => 'admin_1c',
-    'password' => 'GI8da0ji',
-    'bitrix_webhook_url' => 'https://crm.asiamebel.kz/rest/3977/xfk1kjhg7jp9bkld/',
+    'api_url' => 'api_url',
+    'username' => 'username',
+    'password' => 'password',
+    'bitrix_webhook_url' => 'https://crm.xxx.kz/rest/xxx/xxx/',
     'timezone' => 'Asia/Almaty'
 ];
 ```
